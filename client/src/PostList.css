@@ -1,0 +1,18 @@
+.posts-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.post-card {
+    /* display: flex; */
+    /* flex-direction: column; */
+    border: 0.5px solid grey;
+    border-radius: 10px;
+    width: 30%
+}
+
+.post-card-body {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+}
